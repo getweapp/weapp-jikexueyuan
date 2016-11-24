@@ -21,7 +21,7 @@
 
 微信web开发者工具 v0.11.112301
 
-### 源码地址：
+### 项目截图：
 
 https://www.getweapp.com/project?projectId=5836c8d8e8ff074c22472f1b
 
